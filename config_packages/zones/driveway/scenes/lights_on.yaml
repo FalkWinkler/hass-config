@@ -1,5 +1,0 @@
----
-name: Driveway - Lights - On
-entities:
-  light.driveway:
-    state: 'on'

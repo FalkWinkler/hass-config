@@ -1,5 +1,0 @@
----
-name: Driveway - Lights - Off
-entities:
-  light.driveway:
-    state: 'off'

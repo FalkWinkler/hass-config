@@ -1,6 +1,0 @@
----
-name: Downstairs dining area - Lights - Off
-icon: mdi:lightbulb-off
-entities:
-  light.dining_area_ceiling:
-    state: "off"

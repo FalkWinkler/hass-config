@@ -1,2 +1,0 @@
-notify: !include_dir_list notifiers
-tts: !include_dir_list tts
